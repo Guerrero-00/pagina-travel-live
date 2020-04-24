@@ -140,3 +140,20 @@ img{
 	padding: 10px;
 	font-style: italic;
 }
+#texto4{
+	float: none;
+	clear: both;
+	margin: auto;
+	margin-bottom: 50px;
+	width: 80%;
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+}
+#texto4 ul{
+	list-style-type: none;
+}
+#titulo4{
+	float: none;
+	clear: both;
+}
